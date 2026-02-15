@@ -2,11 +2,11 @@
   "name": "color-theme-good",
   "displayName": "color-theme good",
   "description": "Modern Neon Dark Developer Theme with vibrant syntax colors.",
-  "version": "1.0.0",
-  "publisher": "yourpublishername",
+  "version": "1.0.1",
+  "publisher": "Hasan-Dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/color-theme-good"
+    "url": "https://github.com/Ahteshamull/color-theme-good"
   },
   "license": "MIT",
   "engines": {
