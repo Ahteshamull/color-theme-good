@@ -1,0 +1,37 @@
+{
+  "name": "color-theme-good",
+  "displayName": "color-theme good",
+  "description": "Modern Neon Dark Developer Theme with vibrant syntax colors.",
+  "version": "1.0.0",
+  "publisher": "yourpublishername",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/color-theme-good"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "neon theme",
+    "developer theme",
+    "javascript",
+    "react",
+    "nodejs",
+    "modern"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "color-theme good",
+        "uiTheme": "vs-dark",
+        "path": "./themes/color-theme-good-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
