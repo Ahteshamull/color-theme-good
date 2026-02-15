@@ -1,8 +1,8 @@
 {
   "name": "color-theme-good",
-  "displayName": "color-theme good",
+  "displayName": "colortheme good",
   "description": "Modern Neon Dark Developer Theme with vibrant syntax colors.",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "publisher": "Hasan-Dev",
   "repository": {
     "type": "git",
@@ -27,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "color-theme good",
+        "label": "colortheme good",
         "uiTheme": "vs-dark",
-        "path": "./themes/color-theme-good-color-theme.json"
+        "path": "./themes/colortheme-good-color-theme.json"
       }
     ]
   },
